@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sara Xue
+subtitle: My KNES 381 Final Project
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+This website will include data related to Kinesiology (charts, video analysis, and graphics)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I hope you enjoy :smiley:
 
-What else do you need?
 
 ### My story
 
