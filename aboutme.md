@@ -11,4 +11,5 @@ I hope you enjoy :smiley:
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am a 4th year Kinesiology student who enjoys exercising, finding new places to eat, and drinking coffee.
+I also love [animals](https://www.nationalgeographic.com/animals/mammals/facts/domestic-cat) 
