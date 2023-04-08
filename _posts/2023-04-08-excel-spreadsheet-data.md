@@ -3,8 +3,8 @@ layout: post
 title: Excel Spreadsheet
 subtitle: Apple Watch Health Data
 cover-img: /assets/img/Screen Shot 2023-04-08 at 12.59.58 AM.png
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/Screen Shot 2023-04-08 at 12.59.58 AM.png
+share-img: /assets/img/Screen Shot 2023-04-08 at 12.59.58 AM.png
 tags: [exercise, data]
 ---
 
