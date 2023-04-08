@@ -22,9 +22,8 @@ author: Sara Xue
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Sara's github: "https://github.com/sara-xue"
+  Author's home: "https://github.com/sara-xue"
 
 ################
 # --- Logo --- #
@@ -53,8 +52,6 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: 
   github: sara-xue
-  twitter:
-  youtube:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
