@@ -6,6 +6,8 @@ gh-repo: daattali/beautiful-jekyll
 tags: [video analysis]
 comments: true
 ---
+<iframe src="https://www.dartfish.tv/Embed?CR=p191119c541657m7981801&VW=480&VH=854&sh=li&aid=3c0b262c-cb9b-4e8f-9bdb-4b8ce8938a52" width="480" height="869" frameborder="0" allowfullscreen ></iframe>
+
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
