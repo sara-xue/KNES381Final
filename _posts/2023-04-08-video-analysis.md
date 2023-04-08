@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Dartfish Video Analysis
+subtitle: Analysis of various movements
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+tags: [video analysis]
 comments: true
 ---
 
