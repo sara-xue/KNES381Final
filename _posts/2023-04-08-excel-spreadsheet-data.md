@@ -8,7 +8,10 @@ share-img: /assets/img/Screen Shot 2023-04-08 at 12.59.58 AM.png
 tags: [exercise, data]
 ---
 
-I have been going to the gym more often starting in February 2023. I would like to use this website as a means to document my fitness journey. I will be updating this post monthly with new statistics and graphs depicting various fitness variables. Below is a link to an excel spreadsheet that will contain exported data from my Apple Watch Fitness App. I have also included histograms of my active energy from February and March-- where we can observe increased active energy in March compared to February. Hopefully this trend will continue to increase as the months progress throughout this year. 
+I have been going to the gym more often starting in February 2023. I would like to use this website as a means to document my fitness journey. I will be updating this post monthly with new statistics and graphs depicting various fitness variables. Here is a [link](https://github.com/sara-xue/KNES381Final/files/11184303/Workouts.2.csv) to an excel spreadsheet that will contain exported data from my Apple Watch Fitness App. 
+
+
+Below, I have also included histograms of my active energy from February and March-- where we can observe increased active energy in March compared to February. Hopefully this trend will continue to increase as the months progress throughout this year. 
 
 ![Active Energy from Functional Strength Training in Feb and Mar](https://user-images.githubusercontent.com/123666862/230709850-1ec0ab83-8053-478c-a9c8-2191a2d66ae7.png)
 
@@ -18,6 +21,7 @@ I also wanted to look at my average heart rate (HR) trends throughout each of my
 
 
 ![Avg HR from Strength Training in Feb and Mar](https://user-images.githubusercontent.com/123666862/230741643-02db6262-bf01-4e07-a85e-3aa0945499ac.png)
+
 
 ![Avg HR from Walking in Feb and Mar](https://user-images.githubusercontent.com/123666862/230741652-ab4061f8-afcd-4cea-80a2-def9a892283c.png)
 
