@@ -14,4 +14,3 @@ I have been going to the gym more often starting in February 2023. I would like 
 
 ![Active Energy from Walking in Feb and Mar](https://user-images.githubusercontent.com/123666862/230709881-bc264db2-d9d5-435a-82e0-7801b7d2dc67.png)
 
-![walk](https://github.com/sara-xue/KNES381Final/blob/5303d7b4a14baec8357d932038a7205d05b016a3/assets/img/Walking%20Energy.png)
