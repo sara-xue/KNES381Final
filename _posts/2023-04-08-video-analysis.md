@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dartfish Video Analysis
-subtitle: Analysis of various movements
+subtitle: Analysis of countermovement jumping
 gh-repo: daattali/beautiful-jekyll
 tags: [video analysis]
 comments: true
