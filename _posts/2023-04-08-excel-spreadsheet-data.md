@@ -20,9 +20,11 @@ Below, I have also included histograms of my active energy from February and Mar
 I also wanted to look at my average heart rate (HR) trends throughout each of my workouts for these last two months, so below are two scatterplot graphs showing it. As I workout more, and do more cardio (my walking workouts on the treadmill are cardio for sure), I am expecting to have a lower average HR because my heart will be healthier and thus will not need to pump blood as much/as hard. Unfortunately, there was no resting HR data that was exported from my apple watch so I will have to manually measure my resting HR at various times during a month (in the future) to see if it is decreasing as well over time.
 
 
-![Avg HR from Strength Training in Feb and Mar](https://user-images.githubusercontent.com/123666862/230741643-02db6262-bf01-4e07-a85e-3aa0945499ac.png)
+![Avg HR from Strength Training in Feb and Mar](https://user-images.githubusercontent.com/123666862/230749778-edf76bef-6e8c-46dc-816e-7bb27e74c1e3.png)
 
 
-![Avg HR from Walking in Feb and Mar](https://user-images.githubusercontent.com/123666862/230741652-ab4061f8-afcd-4cea-80a2-def9a892283c.png)
+![Avg HR from Walking in Feb and Mar](https://user-images.githubusercontent.com/123666862/230749772-8a686ea3-a949-4a9e-b130-a2691932eb31.png)
 
 I am looking forward to continuing my fitness journey!
+
+
