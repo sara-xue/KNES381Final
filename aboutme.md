@@ -9,7 +9,8 @@ This website will include my own data related to Kinesiology (charts, video anal
 
 ### My story
 
-I am a 4th year Kinesiology student who enjoys exercising, finding new places to eat, drinking coffee, and taking pictures of everything and anything. I love going hiking in the mountains during the summer time so I am excited for the weather to get warm again.
+I am a 4th year Kinesiology student who enjoys exercising and playing sports!! I like to used to dance competitively for 11 years but I have found myself enjoying squash and volleyball more nowadays. 
+In my free time, I like to find new places to eat, drink coffee, and take pictures of everything and anything. I love going hiking in the mountains during the summer time so I am excited for the weather to get warm again.
 I also love [cats](https://www.nationalgeographic.com/animals/mammals/facts/domestic-cat) and hope to own one in the near future!!
 
 The images below showcase some tasty meals/snacks that I've had recently. 
