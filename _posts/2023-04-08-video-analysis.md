@@ -29,6 +29,6 @@ Based on the video above, my jump height came out to be 23.47 cm.
 
 
 ## Significance of this analysis
-Jump height is something I would like to work on! I enjoy playing volleyball but my physical height (in addition to my jump height) is lacking. So upon more practice with jumping I may better be able to set and serve the ball. Moreover, jump height may be an [indicator of power (lower body power), so by improving my height I may be able to in turn my power (which can be beneficial for all sorts of other sports I can partake in)](https://www.frontiersin.org/articles/10.3389/fphys.2020.00231/full)
+Jump height is something I would like to work on! I enjoy playing volleyball but my physical height (in addition to my jump height) is lacking. So upon more practice with jumping I may better be able to set and serve the ball. Moreover, jump height may be an [indicator of power (lower body power), so by improving my height I may be able to in turn improve my power as well](https://www.frontiersin.org/articles/10.3389/fphys.2020.00231/full) (which can be beneficial for all sorts of other sports I can partake in).
 
 
