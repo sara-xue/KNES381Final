@@ -8,7 +8,8 @@ share-img: /assets/img/Screen Shot 2023-04-08 at 12.59.58 AM.png
 tags: [exercise, data]
 ---
 
-I have been going to the gym more often starting in February 2023. I would like to use this website as a means to document my fitness journey. I will be updating this post monthly with new statistics and graphs depicting various fitness variables. Here is a [link](https://github.com/sara-xue/KNES381Final/files/11184303/Workouts.2.csv) to an excel spreadsheet that will contain exported data from my Apple Watch Fitness App. 
+I have been going to the gym more often starting in February 2023. I would like to use this website as a means to document my fitness journey. I will be updating this post monthly with new statistics and graphs depicting various fitness variables. Here is a [link](https://github.com/sara-xue/KNES381Final/files/11193926/KNES.381.Website.xlsx)
+) to an excel spreadsheet that will contain exported data from my Apple Watch Fitness App. Check out the second sheet in the file to look at my average heart rate max when performing my workouts from Feb to Mar (green background from conditional formatting indicates thaat my HRmax for the workouts is below my age-predicted HRmax, decreasing my risk of complications or injuries).
 
 
 Below, I have also included histograms of my active energy from February and March-- where we can observe increased active energy in March compared to February. Hopefully this trend will continue to increase as the months progress throughout this year. 
@@ -24,6 +25,10 @@ I also wanted to look at my average heart rate (HR) trends throughout each of my
 
 
 ![Avg HR from Walking in Feb and Mar](https://user-images.githubusercontent.com/123666862/230749772-8a686ea3-a949-4a9e-b130-a2691932eb31.png)
+
+Since my walking workout involves a high level of active energy, I wanted to see the correlation between that and my average HR while performing the treadmill walking workout to see if there's a relationship between the two (of course correlation does not always equal causation).
+![Correlation](https://user-images.githubusercontent.com/123666862/230997080-d3cbcc23-ee62-4c0f-b952-bc20ad2587cf.png)
+
 
 I am looking forward to continuing my fitness journey!
 
