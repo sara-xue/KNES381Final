@@ -29,7 +29,8 @@ I also wanted to look at my average heart rate (HR) trends throughout each of my
 
 ## Correlation ##
 Since my walking workout involves a high level of active energy, I wanted to see the correlation between that and my average HR while performing the treadmill walking workout to see if there's a relationship between the two (of course correlation does not always equal causation).
-![Correlation](https://user-images.githubusercontent.com/123666862/230997080-d3cbcc23-ee62-4c0f-b952-bc20ad2587cf.png)
+![HRCorrelation](https://user-images.githubusercontent.com/123666862/231222103-f5ae24ab-d3eb-4124-86b8-2791c12688c4.png)
+
 
 
 I am looking forward to continuing my fitness journey!
