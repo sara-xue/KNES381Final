@@ -11,7 +11,7 @@ The [aboutme.md file](aboutme.md) can be changed to add info about yourself and 
 
 ## Homepage ##
 
-If you click the profile picture or "KNES 381 Final Proejct" (in the top left corner), it will bring you to the homepage. This page can be edited via the [config.yaml file](_config.yml). This is where you can change the header and font colour, as well as add a profile picture, and different links to the website.
+If you click the profile picture or "KNES 381 Final Project" (in the top left corner), it will bring you to the homepage. This page can be edited via the [config.yaml file](_config.yml). This is where you can change the header and font colour, as well as add a profile picture, and different links to the website.
 
 ## Posts ##
 
