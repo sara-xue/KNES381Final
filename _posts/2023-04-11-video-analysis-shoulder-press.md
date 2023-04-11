@@ -7,7 +7,7 @@ tags: [video analysis]
 comments: true
 ---
 
-Many workouts I perform invovle functional strength training (see: [a collection of my workouts](https://sara-xue.github.io/KNES381Final/2023-04-08-excel-spreadsheet-data/)).
+Many workouts I perform involve functional strength training (see: [a collection of my workouts](https://sara-xue.github.io/KNES381Final/2023-04-08-excel-spreadsheet-data/)).
 But I never actually look at myself when I do the exercises -- I just do what feels right and essentially hope for the best (hope that muscle is being built).
 This is not the best way to perform exercises as I could be doing them completely wrong and might be injuring myself instead!
 Therefore, below is a video analysis of me doing some dumbbell shoulder presses, and what I should change.
