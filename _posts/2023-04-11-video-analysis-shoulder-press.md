@@ -12,8 +12,6 @@ But I never actually look at myself when I do the exercises -- I just do what fe
 This is not the best way to perform exercises as I could be doing them completely wrong and might be injuring myself instead!
 Therefore, below is a video analysis of me doing some dumbbell shoulder presses, and what I should change.
 
-<iframe src="https://www.dartfish.tv/Embed?CR=p191119c541657m7990381&VW=480&VH=573&sh=li&aid=3c0b262c-cb9b-4e8f-9bdb-4b8ce8938a52" width="480" height="588" frameborder="0" allowfullscreen ></iframe>
-
 
 ## Analysis ##
 * In **Screen Capture 1**, my form is not great- my arms are fairly bent and there is asymmetry in my shoulders (left side dumbbell is held slightly lower than right side).
