@@ -10,7 +10,7 @@ comments: true
 
 ## Scratch Maze Game ##
 
-See below for a fun maze game I made on [Scratch](https://scratch.mit.edu/projects/801552301). Try it out for yourself. The rules are listed on the scratch webpafe (pink font).
+See below for a fun maze game I made on [Scratch](https://scratch.mit.edu/projects/801552301). Try it out for yourself. The rules are listed on the scratch webpage (pink font).
 
 <iframe src="https://scratch.mit.edu/projects/801552301/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
