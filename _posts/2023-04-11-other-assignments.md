@@ -18,4 +18,4 @@ See below for a fun maze game I made on [Scratch](https://scratch.mit.edu/projec
 ## VR ##
 
 And this is a picture of me playing Beat Saber in VR!!! Very cool and fun! 
-<img align ="center" width="200" height="300" src="/webtheme/assets/img/VR.png">
+<img align ="center" width="200" height="300" src="/beautiful-jekyll/assets/img/VR.png">
