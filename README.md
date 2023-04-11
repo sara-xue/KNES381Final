@@ -19,4 +19,4 @@ Posts can be created in the _posts_ folder will all follow the same format-- a t
 
 # More Information #
 
-Check out the [README_Template.md file] (README_Template.md) for more information as to how to specifically make changes to the website. This README is just a quick and broad overview!
+Check out the [README_Template.md file](README_Template.md) for more information as to how to specifically make changes to the website. This README is just a quick and broad overview!
