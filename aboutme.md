@@ -4,12 +4,12 @@ title: Sara Xue
 subtitle: My KNES 381 Final Project
 ---
 
-This website will include my own data related to Kinesiology (charts, video analysis, and graphics) based on some computer applciations and techniques that I have learned over the course of this semester. I hope you enjoy!!
+This website will include my own data related to Kinesiology (charts, video analysis, and graphics) based on some computer applications and techniques that I have learned over the course of this semester. I hope you enjoy!!
 
 
 ### My story
 
-I am a 4th year Kinesiology student who enjoys exercising and playing sports!! I like to used to dance competitively for 11 years but I have found myself enjoying squash and volleyball more nowadays. 
+I am a 4th year Kinesiology student who enjoys exercising and playing sports!! I used to dance competitively for 11 years but I have found myself enjoying squash and volleyball more nowadays. 
 In my free time, I like to find new places to eat, drink coffee, and take pictures of everything and anything. I love going hiking in the mountains during the summer time so I am excited for the weather to get warm again.
 I also love [cats](https://www.nationalgeographic.com/animals/mammals/facts/domestic-cat) and hope to own one in the near future!!
 
